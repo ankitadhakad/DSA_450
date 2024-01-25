@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "console": "externalTerminal",
-      "cwd": "c:/Users/91851/Desktop/DSA",
-      "program": "c:/Users/91851/Desktop/DSA/build/Debug/outDebug"
+      "cwd": "c:/Users/91851/Desktop/DSA/array",
+      "program": "c:/Users/91851/Desktop/DSA/array/build/Debug/outDebug"
     }
   ]
 }
