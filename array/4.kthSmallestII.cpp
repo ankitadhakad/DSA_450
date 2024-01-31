@@ -16,7 +16,7 @@ int partition(int arr[], int l, int r)
             i++;
         }
     }
-    swap(arr[i], arr[j]);
+    swap(arr[i], arr[r]);
     return i;
 }
 int randomPartition(int arr[], int l, int r)
